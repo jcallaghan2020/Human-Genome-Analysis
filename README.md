@@ -1,2 +1,2 @@
 # Human-Genome-Analysis
- Senior project - Locating anomolous regions in human genomic data using Python
+ Senior project - Locating anomalous regions in human genomic data using Python
